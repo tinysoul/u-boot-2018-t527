@@ -1,7 +1,7 @@
-一：toolchain 添加
-因为原本tool里面的arm编译工具太大就没放入仓库，这里自行下载，我是放在uboot文件夹的同一级下tools/toolchain/中
+一：克隆代码
 
-二：克隆代码
+二：toolchain 添加
+因为原本tool里面的arm编译工具太大就没放入仓库，这里自行下载，我是放在uboot文件夹的同一级下tools/toolchain/中
 
 三：编译
 $ cd u-boot-2018-t527/
